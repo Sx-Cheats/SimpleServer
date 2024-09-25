@@ -9,3 +9,5 @@
 
 
  ![](https://github.com/Sx-Cheats/SimpleServer/blob/main/schema.png)
+
+ Author: Sx-Cheats
